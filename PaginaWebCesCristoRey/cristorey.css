@@ -1,0 +1,469 @@
+.cuerpo {
+	margin: 0 auto 0 auto;
+	width:980px;
+	height:3500px;
+	background-image:url("fondo.jpg");
+	font-size: 12px;
+	border-radius:5px;
+}
+
+.rojo {
+	width:980px;
+	height:10px;
+	background-color:#CC3333;
+	border-radius:5px;
+	float:left;
+}
+
+.divimagen {
+	width:300px;
+	height:80px;
+	margin-left:20px;
+	margin-top:50px;
+	float:left;
+}
+
+.menucabecera {
+	width:600px;
+	height:90px;
+	float:left;
+	margin-top:130px;
+	margin-left:60px;
+}
+
+#textonaranja {
+	color:orange;
+}
+
+#menucabecera {
+	color:#303030;
+	font-family:calibri;
+	font-size:15px;
+	text-align:center;
+	padding-top:5px;
+	list-style-type:none;
+	float:left;
+}
+
+#menucabecera li {
+	display:inline-block;
+	border: black 1px solid;
+	width:106px;
+	height:55px;
+	background-color:white;
+	border-radius:4px;
+}
+
+.barra {
+	width:98%;
+	height:35px;
+	background-color:white;
+	float:left;
+	margin-left:10px;
+	padding-top:2px;
+	padding-left:4px;
+	border-radius:4px;
+	margin-top:-10px;
+	border:1px solid #303030;
+}
+
+.derechabarra {
+	width:350px;
+	height:30px;
+	margin-left:600px;
+	margin-top:-33px;
+	font-family:calibri;
+	font-size:18px;
+}
+
+.destacados {
+	width:40%;
+	height:655px;
+	float:left;
+	margin-top:30px;
+	margin-left:12px;
+	padding-left:7px;
+}
+
+.dentrodestacados {
+	width:95%;
+	height:90%;
+	background-color:red;
+	margin-left:2px;
+	border-radius:4px;
+}
+
+.fotoizquierda {
+	width:90%;
+	height:90%;
+	background-color:pink;
+}
+
+.tufuturo {
+	width:27%;
+	height:655px;
+	float:left;
+	margin-top:30px;
+	margin-left:13px;
+}
+
+.dentrotufuturo {
+	width:95%;
+	height:90%;
+	background-color:#C0C0C0;
+	padding-top:5px;
+	border-radius:4px;
+}
+
+.selfie {
+	width:90%;
+	height:85%;
+	background-color:#C0C0C0;
+	padding-left:15px;
+}
+
+.twitter {
+	width:27%;
+	height:500px;
+	float:left;
+	margin-top:30px;
+	margin-left:16px;
+}
+
+#minititulos {
+	font-size:25px;
+	font-family:calibri;
+	color:#303030;
+}
+
+#textoselfie {
+	font-size:13px;
+	font-family:calibri;
+	color:#303030;
+	text-align:justify;
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.supercentro {
+	width:100%;
+	height:12%;
+	background-image:url("supercentro.jpg");
+	float:left;
+	margin-top:10%;
+	border-radius:4px;
+}
+
+.contenedorcentro {
+	width:85%;
+	height:79%;
+	background-color:rgba(0,0,0,0.5);
+	margin-top:4%;
+	margin-left:7%;
+	border-radius:8px;
+}
+
+.bienvenido {
+	width:100%;
+	height:22%;
+	color:white;
+	font-family:calibri;
+	font-size:15px;
+}
+
+.bienvenidotitulo {
+	width:95%;
+	height:100%;
+	margin-left:22px;
+	padding-top:12px;
+}
+
+#titulobienvenido {
+	font-size:22px;
+	font-family:calibri;
+}
+
+.otrobienvenido {
+	width:100%;
+	height:90%;
+}
+
+.bienvenidoizquierda {
+	width:35%;
+	height:100%;
+	float:left;
+}
+
+.bienvenidoimagen {
+	width:85%;
+	height:95%;
+	background-image:url("profesores.jpg");
+	background-size:contain;
+	background-repeat:no-repeat;
+	float:left;
+	margin-left:8%;
+	margin-top:5%;
+}
+
+.bienvenidotexto {
+	width:65%;
+	height:100%;
+	float:left;
+	color:white;
+	font-family:calibri;
+	font-size:14px;
+}
+
+.botonleermas {
+	width:15%;
+	height:7%;
+	background-color:#B0B0B0;
+	color:#202020 ;
+	text-align:center;
+	border-radius:10px;
+	font-family:calibri;
+	font-weight:bolder;
+}
+
+.alumnapremiada {
+	width:49%;
+	height:20%;
+	margin-top:3%;
+	float:left;
+	font-family:calibri;
+	color:#484848;
+	font-size:14px;
+}
+
+#enlaces {
+	color:orange;
+}
+
+.imagenalumna {
+	width:100%;
+	height:38%;
+	background-color:green;
+	margin-top:8px;
+}
+
+.politica {
+	width:49%;
+	height:15%;
+	margin-top:5%;
+	float:left;
+	margin-left:2%;
+	font-family:calibri;
+	color:#484848;
+	font-size:14px;
+}
+
+.calidad {
+	width:99%;
+	height:4%;
+	background-color:white;
+	padding-left:5px;
+	padding-top:7px;
+	border:1px black solid;
+	border-radius:2px;
+}
+
+.tutorial {
+	width:99%;
+	height:4%;
+	background-color:white;
+	margin-top:6px;
+	padding-left:5px;
+	padding-top:7px;
+	border:1px black solid;
+	border-radius:2px;
+}
+
+.ultramenu {
+	width:100%;
+	height:89%;
+	background-color:grey;
+	margin-top:15px;
+}
+
+.ultramenu {
+	width:100%;
+	height:89%;
+	background-color:grey;
+	margin-top:15px;
+}
+
+.estilo {
+	width:25%;
+	height:7%;
+	background-color:white;
+	float:left;
+	color:orange;
+	border:1px black solid;
+	border-bottom:none;
+	padding-top:10px;
+	padding-left:10px;
+}
+
+.histopasto {
+	width:15%;
+	height:7%;
+	background-color:#F0F0F0;
+	float:left;
+	border:1px black solid;
+	padding-top:10px;
+	padding-left:10px;
+}
+
+.vacio {
+	width:37%;
+	height:9%;
+	background-color:#F0F0F0;
+	float:left;
+	border:1px black solid;
+}
+
+.textoeducativo {
+	width:100%;
+	height:90%;
+	background-color:white;
+	float:left;
+	padding-top:10px;
+	font-family:calibri;
+	color:#484848;
+	font-size:15px;
+	border:grey solid 1px;
+	border-top:none;
+	float:left;
+}
+
+#tituloeducativo {
+	margin-left:22px;
+}
+
+.viaje {
+	width:50%;
+	height:10%;
+	float:left;
+	clear:left;
+	font-family:calibri;
+	font-size:13px;
+	color:#484848;
+	margin-top:-20px;
+	float:left;
+}
+
+.erasmus {
+	width:50%;
+	height:13%;
+	clear:left;
+	float:left;
+	font-family:calibri;
+	font-size:13px;
+	color:#484848;
+	float:left;
+}
+
+.barco {
+	width:75%;
+	height:45%;
+	background-color:blue;
+	clear:left;
+	float:left;
+}
+
+.botonleermas1 {
+	width:15%;
+	height:5%;
+	background-color:#B0B0B0;
+	color:black;
+	font-size:14px;
+	text-align:center;
+	border-radius:8px;
+	font-family:calibri;
+	font-weight:bolder;
+	margin-top:255px;
+}
+
+.derechos {
+	width:20%;
+	height:13%;
+	float:left;
+	clear:left;
+	font-family:calibri;
+	font-size:13px;
+	color:#484848;
+}
+
+.textoderechos {
+	width:98%;
+	height:80%;
+	background-color:white;
+	border:1px #B0B0B0 solid;
+	font-family:calibri;
+	font-size:14px;
+	color:#484848;
+	padding-left:8px;
+}
+
+.atendirecc {
+	width:22%;
+	height:13%;
+	float:left;
+	margin-left:2%;
+	font-family:calibri;
+	font-size:13px;
+	color:#484848;
+}
+
+.textoatendirecc {
+	width:98%;
+	height:80%;
+	background-color:white;
+	border:1px #B0B0B0 solid;
+	font-family:calibri;
+	font-size:14px;
+	color:#484848;
+	padding-left:8px;
+}
+
+.contacto {
+	width:29%;
+	height:13%;
+	float:left;
+	margin-left:2%;
+	font-family:calibri;
+	font-size:13px;
+	color:#484848;
+}
+
+.textocontacto {
+	width:98%;
+	height:80%;
+	background-color:white;
+	border:1px #B0B0B0 solid;
+	font-family:calibri;
+	font-size:14px;
+	color:#484848;
+	padding-left:8px;
+}
+
+.copyright {
+	width:40%;
+	height:0.5%;
+	clear:left;
+	font-family:calibri;
+	font-size:15px;
+	color:#484848;
+	font-size:14px;
+	margin-top:20px;
+}
+
+.rojo1 {
+	width:980px;
+	height:10px;
+	background-color:#CC3333;
+	border-radius:5px;
+	float:left;
+	clear:left;
+	margin-top:45px;
+}
